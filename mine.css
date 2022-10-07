@@ -89,6 +89,14 @@ padding-top: 20px;
 #photo2 h1{
    color: black;
 }
+.soccer{
+   display: flex;
+}
+.soccer button{
+   margin-left: 65%;
+   width: 10%;
+   height: 5vh;
+}
 
  @media screen and (max-width:720px){
     .first{
